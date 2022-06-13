@@ -1,1 +1,1 @@
-# ps-projeto
+# ps-projeto-pet-typescript
