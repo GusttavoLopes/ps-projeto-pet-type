@@ -10,7 +10,7 @@ index.ts - arquivo que hospeda e exporta os outros arquivos da pasta Hooks, para
 
 useAuth.ts - retorna as propriedades do value do AuthContext.Provider
 
-useBackHandler.ts - detectar o toque do usuário no botão
+useBackHandler.ts - detectar o toque do usuário no botão voltar do aparelho
 
 useMedicine.ts - retorna as propriedades do value do MedicineContext.Provider
 
