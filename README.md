@@ -6,11 +6,11 @@
 
 <img src="https://user-images.githubusercontent.com/50894850/175794455-180e319e-f2cb-4c7f-8584-2d198c966127.png">
 
-index.ts -
+index.ts - arquivo que hospeda e exporta os outros arquivos da pasta Hooks, para facilitar a importação
 
-useAuth.ts - 
+useAuth.ts - retorna as propriedades do value do AuthContext.Provider
 
-useBackHandler.ts
+useBackHandler.ts - 
 
 useMedicine.ts - 
 
@@ -22,15 +22,15 @@ usePet.ts -
 
 <img src="https://user-images.githubusercontent.com/50894850/175794439-f356ea36-dd7c-4c9b-837b-0716e5d05959.png">
 
-Auth.tsx - Arquivo que contém as propriedades e funções de Login, Criação de Usuário e LogOut do app
+Auth.tsx - arquivo que contém as propriedades e funções de Login, Criação de Usuário e LogOut do app
 
-index.tsx - Arquivo que hospeda e exporta os outros arquivos da pasta Contexts, para facilitar a importação 
+index.tsx - arquivo que hospeda e exporta os outros arquivos da pasta Contexts, para facilitar a importação 
 
-Medicine.tsx - Passa as funções da página de medicamentos - Criação de um medicamento/Listagem dos Medicamentos/Remoção de um Medicamento
+Medicine.tsx - passa as funções da página de medicamentos - Criação de um medicamento/Listagem dos Medicamentos/Remoção de um Medicamento
 
-Payments.tsx - Passa as funções da página de pagamentos - Criação do Pagamento/Listagem do Pagamento/Remoção do Pagamento
+Payments.tsx - passa as funções da página de pagamentos - Criação do Pagamento/Listagem do Pagamento/Remoção do Pagamento
 
-Pet.tsx - Passa as funções da página de pets - Criação de um novo pet/Listagem dos pets cadastrados/Exclusão de um Pet
+Pet.tsx - passa as funções da página de pets - Criação de um novo pet/Listagem dos pets cadastrados/Exclusão de um Pet
 
 ### Fluxo do App
 
