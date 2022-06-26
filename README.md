@@ -9,6 +9,7 @@
 ### Contexts
 
 <img src="https://user-images.githubusercontent.com/50894850/175794439-f356ea36-dd7c-4c9b-837b-0716e5d05959.png">
+Payments.tsx - Passa as funções da página de pagamentos - Criação do Pagamento/Listagem do Pagameto/Remoção do Pagamento
 
 ### Fluxo do App
 
