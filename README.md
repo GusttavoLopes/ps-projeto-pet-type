@@ -9,8 +9,7 @@
 ### Contexts
 
 <img src="https://user-images.githubusercontent.com/50894850/175794439-f356ea36-dd7c-4c9b-837b-0716e5d05959.png">
-Auth.tsx - Arquivo que contém as propriedades e funções de Login, Criação de Usuário e LogOut do app.
-
+Auth.tsx - Arquivo que contém as propriedades e funções de Login, Criação de Usuário e LogOut do app
 
 index.tsx - Arquivo que hospeda e exporta os outros arquivos da pasta Contexts, para facilitar a importação 
 
