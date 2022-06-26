@@ -4,7 +4,11 @@
 
 ### Hooks
 
+<img src="(https://user-images.githubusercontent.com/50894850/175794455-180e319e-f2cb-4c7f-8584-2d198c966127.png">
+
 ### Contexts
+
+<img src="https://user-images.githubusercontent.com/50894850/175794439-f356ea36-dd7c-4c9b-837b-0716e5d05959.png">
 
 ### Fluxo do App
 
